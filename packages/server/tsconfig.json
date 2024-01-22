@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "module": "nodenext",
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "target": "es2017",
+      "sourceMap": true
+    }
+  }
